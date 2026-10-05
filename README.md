@@ -28,4 +28,6 @@ npm run dev
 - `src/scene/Landmarks.tsx` : les monuments en primitives, à remplacer par des modèles GLB.
 
 ## Crédits
-Les modèles 3D viennent de [Kenney](https://kenney.nl), sous licence CC0 (domaine public) : [Pirate Kit](https://kenney.nl/assets/pirate-kit), [Nature Kit](https://kenney.nl/assets/nature-kit) et [Mini Characters](https://kenney.nl/assets/mini-characters). Ils sont rangés dans `public/models/`, et la liste des modèles utilisés est dans `src/game/Modeles.tsx`.
+Les modèles 3D viennent de [Kenney](https://kenney.nl), sous licence CC0 (domaine public) : [Pirate Kit](https://kenney.nl/assets/pirate-kit), [Nature Kit](https://kenney.nl/assets/nature-kit) et [Mini Characters](https://kenney.nl/assets/mini-characters). Ils sont rangés dans `public/models/`, et la liste des modèles utilisés est dans `src/game/Modeles.
+
+https://tx-diloxi.github.io/portfolio-archipel/
